@@ -7,6 +7,9 @@
 
 # Installation
 
+$ mkvirtualenv wearhacks-website
+$ workon wearhacks-website
+
 ## Requirements
 
 * `pip` - instructions [here](https://pip.pypa.io/en/latest/installing.html)
